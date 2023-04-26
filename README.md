@@ -1,7 +1,7 @@
 # TRAFFIC SIMULATOR
 
-This is a project built by college students.
-There are three members in the team, which is 劉芷言, 陳羽綸 and 王品家
+This is a project built by college students.<br></br>
+There are three members in the team, which is 劉芷言, 陳羽綸 and 王品家.
 
 ## Introduction
 
