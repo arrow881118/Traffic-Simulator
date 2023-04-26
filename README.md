@@ -8,7 +8,7 @@
  
 ## Traffic System
 
-To start with accomplish the idea, we have to built the fundamental object, which is a car with radar. So that these cars could detect each other and more important, the path and intersection.
+In order to accomplish the idea, built the fundamental object is the great way to start with, which is a car with radar. So that these cars could detect each other and more important, the path and intersection.
 
 <img width="875" alt="車輛雷達標示" src="https://user-images.githubusercontent.com/67034993/234522673-e27e0110-6619-4606-8a89-ba41e01dff3a.png">
 
