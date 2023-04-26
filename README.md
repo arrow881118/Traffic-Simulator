@@ -29,10 +29,9 @@ We bulit the detect system in user's vehicle and placed certain type of checkpoi
 
 ![擷取_2021_10_05_17_29_16_511](https://user-images.githubusercontent.com/67034993/234535028-cf7d51b8-a7c4-4479-9271-7c0e34fefab6.png)
  
-This is the demo video of if user collide with the object that there are not allow to(other vehicles, divisional island and double yellow line respectively).
+This is the demo video of user collide with the object that there are not allow to(other vehicles, divisional island and double yellow line respectively).
 
-
-https://user-images.githubusercontent.com/67034993/234539802-459ddd27-6a2b-459e-8c91-21ea14011224.mov
+https://user-images.githubusercontent.com/67034993/234541091-85d7c65c-59b7-453e-a1ac-b0dd8850c043.mov
 
 
 
