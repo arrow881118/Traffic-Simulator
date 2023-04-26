@@ -33,9 +33,14 @@ This is the demo video of user collide with the object that there are not allow 
 
 https://user-images.githubusercontent.com/67034993/234541091-85d7c65c-59b7-453e-a1ac-b0dd8850c043.mov
 
-This is the demo video of detect system keeps the unfullfull mission in record. The mission is "change to inside lane before you went into left turn lane"(notice : user will fail if they did not use the indicator).
+This is the demo video of detect system keeps the unfullfull mission in record. The mission is "change to inside lane before you went into left turn lane"(notice : user will failed if they did not use the indicator).
 
 https://user-images.githubusercontent.com/67034993/234542910-0e482b3a-4959-46fe-87ec-d293998d4e40.mov
+
+This is the demo video of education mode, which enable user to see where the checkpoint is, so that they could learn the right and approciate way to drive. 
+
+https://user-images.githubusercontent.com/67034993/234547627-7a25dadb-058a-45c2-b721-291091f54d43.mov
+
 
 
 ## Contorl Types
