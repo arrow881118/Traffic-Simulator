@@ -14,7 +14,11 @@ In order to accomplish the idea, built the fundamental object is the great way t
 
 After built a functional car, we still have to keeps it in the path we designed. For this purpose, we could create an editor to do so. Create dots on the road we bulit, connect the dots to form a line, then our path are done. 
 
+When path were built and cars could follow the path we gave, we still need a object to detect every cars in the intersection. To do this, we built a invisible box cover the whole intersection, which keeps the record of every traffic light, so that when cars collide with the box it, it could sent the car a signal whether to drive of stop.
+
 ![image](https://github.com/holydarktank2/Graduation-Project/blob/main/screenshots/Screenshot3.gif)
+
+This is the demo video of the working traffic system.
 
 https://user-images.githubusercontent.com/67034993/234222745-c4a60f85-8442-4533-8e84-7b8cb9afc5a5.mov
 
