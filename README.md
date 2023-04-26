@@ -41,7 +41,9 @@ This is the demo video of education mode, which enable user to see where the che
 
 https://user-images.githubusercontent.com/67034993/234547627-7a25dadb-058a-45c2-b721-291091f54d43.mov
 
+This is the demo video of user finish the level but fail to accomplish all missions(failed on did not follow the lane he/she should be or driving on line).
 
+https://user-images.githubusercontent.com/67034993/234556254-23e93ab0-195c-44a2-9031-91bca275418b.mov
 
 ## Contorl Types
 
