@@ -12,7 +12,7 @@ In order to accomplish the idea, built the fundamental object is the great way t
 
 <img width="875" alt="車輛雷達標示" src="https://user-images.githubusercontent.com/67034993/234522673-e27e0110-6619-4606-8a89-ba41e01dff3a.png">
 
-After built a functional car, we still have to keeps it in the path we designed. To do that, 
+After built a functional car, we still have to keeps it in the path we designed. For this purpose, we could create an editor to do so. Create dots on the road we bulit, connect the dots to form a line, then our path are done. 
 
 ![image](https://github.com/holydarktank2/Graduation-Project/blob/main/screenshots/Screenshot3.gif)
 
