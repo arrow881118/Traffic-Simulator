@@ -59,5 +59,3 @@ https://user-images.githubusercontent.com/67034993/234560925-a0812315-dba5-4490-
 
 ## Screenshots
 
-![image](https://github.com/holydarktank2/Graduation-Project/blob/main/screenshots/Screenshot1.PNG)
-![image](https://github.com/holydarktank2/Graduation-Project/blob/main/screenshots/Screenshot2.PNG)
