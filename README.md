@@ -51,6 +51,11 @@ Logitech G29 or Keyboard
 
 ## Set-Up
 
+https://user-images.githubusercontent.com/67034993/234560690-f9247c58-43c0-46d3-9bb6-2249bf58edc3.mp4
+
+https://user-images.githubusercontent.com/67034993/234560925-a0812315-dba5-4490-b0ee-226d68984125.MOV
+
+
 
 ## Screenshots
 
