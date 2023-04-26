@@ -25,9 +25,16 @@ https://user-images.githubusercontent.com/67034993/234222745-c4a60f85-8442-4533-
 
 ## Behavior Detected System
 
-We bulit the detect system in user's vehicle and placed certain type of checkpoint in different scenarios(the green objects are the checkpoint that user are forbib to collide).
+We bulit the detect system in user's vehicle and placed certain type of checkpoint in different scenarios(the green objects are the checkpoint that user are forbid to collide).
 
 ![擷取_2021_10_05_17_29_16_511](https://user-images.githubusercontent.com/67034993/234535028-cf7d51b8-a7c4-4479-9271-7c0e34fefab6.png)
+ 
+This is the demo video of if user collide with the object that there are not allow to(other vehicles, divisional island and double yellow line respectively).
+
+
+https://user-images.githubusercontent.com/67034993/234539802-459ddd27-6a2b-459e-8c91-21ea14011224.mov
+
+
 
 ## Contorl Types
 
