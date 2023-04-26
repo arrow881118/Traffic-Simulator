@@ -25,7 +25,9 @@ https://user-images.githubusercontent.com/67034993/234222745-c4a60f85-8442-4533-
 
 ## Behavior Detected System
 
-We
+We bulit the detect system in user's vehicle and placed certain type of checkpoint in different scenarios(the green objects are the checkpoint that user are forbib to collide).
+
+![擷取_2021_10_05_17_29_16_511](https://user-images.githubusercontent.com/67034993/234535028-cf7d51b8-a7c4-4479-9271-7c0e34fefab6.png)
 
 ## Contorl Types
 
