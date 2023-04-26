@@ -33,6 +33,9 @@ This is the demo video of user collide with the object that there are not allow 
 
 https://user-images.githubusercontent.com/67034993/234541091-85d7c65c-59b7-453e-a1ac-b0dd8850c043.mov
 
+This is the demo video of detect system keeps the unfullfull mission in record. The mission is "change to inside lane before you went into left turn lane"(notice : user will fail if they did not use the indicator).
+
+https://user-images.githubusercontent.com/67034993/234542910-0e482b3a-4959-46fe-87ec-d293998d4e40.mov
 
 
 ## Contorl Types
