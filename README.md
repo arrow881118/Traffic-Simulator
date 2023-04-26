@@ -1,6 +1,7 @@
 # TRAFFIC SIMULATOR
 
-安全道路駕駛模擬器
+This is a project built by college students.
+There are three members in the team, which is 劉芷言, 陳羽綸 and 王品家
 
 ## Introduction
 
@@ -24,6 +25,7 @@ https://user-images.githubusercontent.com/67034993/234222745-c4a60f85-8442-4533-
 
 ## Behavior Detected System
 
+We
 
 ## Contorl Types
 
